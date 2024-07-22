@@ -71,5 +71,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run sentimentus.py
 ```
-### Versão Online na Nuvem
-O projeto também pode ser acessado diretamente via nuvem. Foi montada uma imagem Docker, e em seguida feito um deploy no Google Cloud, Acesse Via link :  https://sentimentus-app-bkm6lf7kiq-rj.a.run.app
+
+## Versão Online na Nuvem
+O projeto também pode ser acessado diretamente na nuvem. Foi montada uma imagem Docker, e em seguida feito um deploy no Google Cloud, Acesse Via link : https://sentimentus-app-bkm6lf7kiq-rj.a.run.app
